@@ -8,7 +8,7 @@
 Skills: Flutter - Android - Firebase 
 - 🌍 I'm From Indonesia.
 - 🌱 I'm currently learning Flutter, Dart & more
-- ⚡ Fun fact **I am funny😁**
+- ⚡ Stay Humble and Calm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
